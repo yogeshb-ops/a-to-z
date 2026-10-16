@@ -1,7 +1,7 @@
 import type { Product, Category } from '@/types';
 
 const shirtImages = [
-  'https://images.pexels.com/photos/35415004/pexels-photo-35415004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://assets.myntassets.com/assets/images/31472271/2025/2/21/7cbe9410-a9b3-460c-adeb-f17b4546eedc1740148775321-Campus-Sutra-Men-Comfort-Opaque-Checked-Casual-Shirt-8181740-1.jpg',
   'https://images.pexels.com/photos/4443831/pexels-photo-4443831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'https://images.pexels.com/photos/17076311/pexels-photo-17076311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'https://images.pexels.com/photos/9558723/pexels-photo-9558723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -50,8 +50,18 @@ const shoeImages = [
   'https://images.pexels.com/photos/1476209/pexels-photo-1476209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'https://images.pexels.com/photos/5758678/pexels-photo-5758678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'https://images.pexels.com/photos/36463718/pexels-photo-36463718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  
+    'https://images.pexels.com/photos/13651809/pexels-photo-13651809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/30197672/pexels-photo-30197672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/18139574/pexels-photo-18139574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/6428345/pexels-photo-6428345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/29138679/pexels-photo-29138679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/30725120/pexels-photo-30725120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/12661581/pexels-photo-12661581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/16701780/pexels-photo-16701780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/14798947/pexels-photo-14798947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  'https://images.pexels.com/photos/9157771/pexels-photo-9157771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
 ];
-
 const shirtBrands = ['Allen Solly', 'Van Heusen', 'Peter England', 'Raymond', 'Louis Philippe', 'Arrow', 'US Polo', 'Levis', 'Park Avenue', 'John Player'];
 const pantBrands = ['Levis', 'Wrangler', 'Pepe Jeans', 'Spykar', 'Lee', 'US Polo', 'Flying Machine', 'Peter England', 'Allen Solly', 'Jack & Jones'];
 const tshirtBrands = ['Puma', 'Adidas', 'Nike', 'Reebok', 'US Polo', 'Roadster', 'H&M', 'Jack & Jones', 'Levis', 'Under Armour'];
